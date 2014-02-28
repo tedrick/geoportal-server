@@ -29,7 +29,7 @@
  * Example: <code>.../catalog/download/download.page?extractDataTaskUrl=http://serverapi.arcgisonline.com/arcgis/rest/services/ExtractData/GPServer/ExtractPortlandDataByString</code>
  * </li>
  * <li><b>mapServiceUrl</b> - map service URL used by geoprocessing task<br/>
- * Example: <code>.../catalog/download/download.page?mapServiceUrl=http://serverapi.arcgisonline.com/arcgis/rest/services/ExtractableData/MapServer</code><br/>
+ * Example: <code>.../catalog/download/download.page?mapServiceUrl=http://.com/arcgis/rest/services/ExtractableData/MapServer</code><br/>
  * Important! <code>mapServiceUrl</code> has to refer exactly the same maps ervice as 
  * geoprocessing task is using.
  * </li>

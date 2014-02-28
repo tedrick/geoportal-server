@@ -21,7 +21,7 @@
 <html>
 <head>
 <title>Geoportal Server XML Editor</title>
-<link rel="stylesheet" type="text/css" href="http://serverapi.arcgisonline.com/jsapi/arcgis/2.5/js/dojo/dijit/themes/tundra/tundra.css" />
+<link rel="stylesheet" type="text/css" href="//serverapi.arcgisonline.com/jsapi/arcgis/2.5/js/dojo/dijit/themes/tundra/tundra.css" />
 <link rel="stylesheet" type="text/css" href="<%=request.getContextPath()%>/catalog/skins/themes/red/main.css"  />
 <style type="text/css">
 	.gxeMapEnvelopeTable {font-size: 1em;}
